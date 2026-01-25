@@ -12,6 +12,9 @@ website:
         text: About
       - href: project.qmd
         text: Project
+      - href: cv.qmd
+        text: Curriculum Vitae
+      
 
 format:
   html:
