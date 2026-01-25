@@ -1,17 +1,18 @@
 ---
 title: "EEFE530 Website - Chia-Chen Hsu"
+image: "My_Pic.jpg"
 ---
 
-## Welcome
+## Welcome!
 
 Welcome to the website of a PhD student in Energy, Environmental, and Food Economics at Penn State University, with a love for dogs and tennis! Happy to talk and appreciate any comments on my research.
-
+ 
 ### What this site includes
 
 - A homepage
 - An about page
 - A project page
-
+- A CV
 
 ## Contact & Links
 
