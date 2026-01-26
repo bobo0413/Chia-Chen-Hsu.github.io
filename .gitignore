@@ -1,4 +1,18 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
+# Quarto
+/.quarto/
+/_site/
+
+# R / Python caches
+**/.Rhistory
+**/.RData
+**/__pycache__/
+**/*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+**/*.quarto_ipynb
+
+.Rproj.user/
+
