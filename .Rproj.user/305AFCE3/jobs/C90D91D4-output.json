@@ -1,3 +1,0 @@
-[1,"==> quarto preview about.qmd --to default --no-watch-inputs --no-browse\n\n"]
-[1,"pandoc \n  to: html\n  output-file: about.html\n  standalone: true\n  title-prefix: Chia-Chen Hsu\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - styles.css\n  toc: true\n  variables: {}\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  editor: visual\n  theme:\n    - cosmo\n    - brand\n  title: EEFE530 Website - Chia-Chen Hsu\n  image: My_Pic.jpg\n  \n"]
-[1,"Output created: docs\\about.html\n\nWatching files for changes\nBrowse at http://localhost:4568/about.html\nListening on http://127.0.0.1:4568/\n"]
