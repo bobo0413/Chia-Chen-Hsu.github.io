@@ -1,0 +1,62 @@
+{
+  "index.qmd": {
+    "index.html": "2da58efc"
+  },
+  "about.qmd": {
+    "about.html": "6db724ab"
+  },
+  "cv.qmd": {
+    "cv.html": "949aa20b"
+  },
+  "instructor_rubric.md": {
+    "instructor_rubric.html": "62f4725d"
+  },
+  "My_Website/about.qmd": {
+    "about.html": "c9545d92"
+  },
+  "My_Website/cv.qmd": {
+    "cv.html": "6379c4c7"
+  },
+  "My_Website/index.qmd": {
+    "index.html": "0b99111d"
+  },
+  "My_Website/instructor_rubric.md": {
+    "instructor_rubric.html": "44d12391"
+  },
+  "My_Website/project.qmd": {
+    "project.html": "161421c5"
+  },
+  "My_Website/release/week2/assignments/assignment-01.md": {
+    "assignment-01.html": "c4850733"
+  },
+  "My_Website/release/week2/README_RELEASE_WEEK2.md": {
+    "README_RELEASE_WEEK2.html": "23951d98"
+  },
+  "My_Website/STUDENT_HANDOUT.md": {
+    "STUDENT_HANDOUT.html": "22122a8d"
+  },
+  "project.qmd": {
+    "project.html": "ec51f837"
+  },
+  "STUDENT_HANDOUT.md": {
+    "STUDENT_HANDOUT.html": "9aa108ea"
+  },
+  "Chia-Chen-Hsu.github.io/about.qmd": {
+    "about.html": "c23d67bf"
+  },
+  "Chia-Chen-Hsu.github.io/cv.qmd": {
+    "cv.html": "d59bd4de"
+  },
+  "Chia-Chen-Hsu.github.io/index.qmd": {
+    "index.html": "fc716529"
+  },
+  "Chia-Chen-Hsu.github.io/instructor_rubric.md": {
+    "instructor_rubric.html": "140827e4"
+  },
+  "Chia-Chen-Hsu.github.io/project.qmd": {
+    "project.html": "40fc013e"
+  },
+  "Chia-Chen-Hsu.github.io/STUDENT_HANDOUT.md": {
+    "STUDENT_HANDOUT.html": "38177d24"
+  }
+}
