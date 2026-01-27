@@ -1,19 +1,17 @@
 {
-    "id": "90CD6C15",
-    "path": "C:/GitHub/github-website-Chia-Chen-Hsu/Chia-Chen-Hsu.github.io/about.qmd",
-    "project_path": "Chia-Chen-Hsu.github.io/about.qmd",
+    "id": "56DD0303",
+    "path": "C:/GitHub/github-website-Chia-Chen-Hsu/about.qmd",
+    "project_path": "about.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "3788384830",
     "contents": "",
     "dirty": false,
-    "created": 1769472599464.0,
+    "created": 1769473955402.0,
     "source_on_save": false,
     "relative_order": 6,
     "properties": {
         "source_window_id": "",
-        "Source": "Source",
-        "cursorPosition": "6,0",
-        "scrollLine": "6"
+        "Source": "Source"
     },
     "folds": "",
     "lastKnownWriteTime": 1769470012,
