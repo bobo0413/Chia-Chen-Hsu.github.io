@@ -1,12 +1,15 @@
 # Quarto
 /.quarto/
-/_site/
 
 # R / Python caches
 **/.Rhistory
 **/.RData
 **/__pycache__/
 **/*.pyc
+
+# RStudio
+.Rproj.user/
+
 
 # OS
 .DS_Store
